@@ -1,6 +1,6 @@
 //
 //  Planet+CoreDataProperties.swift
-//  JPMCTest
+//  SwapiPlanets
 //
 //  Created by Atul Prakash on 24/05/23.
 //

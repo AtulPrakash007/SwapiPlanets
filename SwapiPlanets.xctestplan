@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "E5BB5DB2-6D23-40EB-81FD-A2BA35AF7323",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwapiPlanets.xcodeproj",
+      "identifier" : "6BBB771B2A1DE73500F17E4A",
+      "name" : "SwapiPlanets"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwapiPlanets.xcodeproj",
+        "identifier" : "6BBB772B2A1DE73600F17E4A",
+        "name" : "SwapiPlanetsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:SwapiPlanets.xcodeproj",
+        "identifier" : "6BBB77352A1DE73600F17E4A",
+        "name" : "SwapiPlanetsUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
