@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "A2190934-E403-4A1B-8F9F-F961450DCDDA",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:JPMCTest.xcodeproj",
+      "identifier" : "6BBB771B2A1DE73500F17E4A",
+      "name" : "JPMCTest"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:JPMCTest.xcodeproj",
+        "identifier" : "6BBB772B2A1DE73600F17E4A",
+        "name" : "JPMCTestTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:JPMCTest.xcodeproj",
+        "identifier" : "6BBB77352A1DE73600F17E4A",
+        "name" : "JPMCTestUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
